@@ -1,0 +1,10 @@
+
+"sorting_v92"
+{
+
+	"base" "base"
+	"title" "V92"
+	"maps" "^v92_*|^fs_*"
+	"menusystem" "0"
+
+}
