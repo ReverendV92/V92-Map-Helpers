@@ -1,4 +1,4 @@
-# V92 Config & Downloader for Garry's Mod
+# V92 Map Helpers
 
 A simple faux gamemode script that adds my unique prefixed maps into their own map category.
 

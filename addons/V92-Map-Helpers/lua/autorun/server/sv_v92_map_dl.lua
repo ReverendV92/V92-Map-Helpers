@@ -14,16 +14,15 @@ if SERVER then
 	-- V92
 
 	maplist["fs_auditorium"] = "543254337"
-	maplist["fs_basement-dweller"] = "105497660"
 	maplist["fs_brain-archives"] = "135616832"
 	maplist["fs_bridge"] = "474414964"
 	maplist["fs_cityx"] = "517232476"
 	maplist["fs_gs-teamspeak"] = "133545651"
 	maplist["fs_hoth"] = "660464983"
 	maplist["fs_shining"] = "563628067"
-	maplist["fs_warehouse"] = "482291622"
 	maplist["fs_western"] = "215552742"
 	maplist["v92_airship"] = "819571874"	
+	maplist["v92_basementdweller"] = "105497660"
 	maplist["v92_bench"] = "1507172856"
 	maplist["v92_bench_night"] = "1507172856"
 	maplist["v92_dynamicrp"] = "841255224"
@@ -32,6 +31,7 @@ if SERVER then
 	maplist["v92_styx-train"] = "819658117"
 	maplist["v92_toysoldiers"] = "171540690"
 	maplist["v92_steptest"] = "918830898"	
+	maplist["v92_warehouse"] = "482291622"
 	
 	maplist["v92_cyberapartment"] = "779486754"
 	maplist["v92_cyberapartment_blue"] = "779486754"
